@@ -1,3 +1,0 @@
-POSTMAN 
-post http://admin4/ws/rest/transaction/
-{ "userId":"10", "datetime":"8 May 2014", "total":"12341234", "shipmentNo":"1", "items":[{ "0":"17", "1":"1", "2":"12341234" }] } 
